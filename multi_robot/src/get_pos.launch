@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="get_pos" type="navs.py" name="get_pos" output="screen" />
+</launch>
