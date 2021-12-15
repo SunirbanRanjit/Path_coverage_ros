@@ -1,7 +1,7 @@
 # Path_coverage_ros
 
 
-#  Area coverage simulation of multiple cleaning robot #
+#  Area coverage simulation of multiple cleaning robot using ROS-noetic #
 
 clone this to src of your workspace
 go to your workspace
@@ -35,5 +35,5 @@ roslaunch multi_robot main_world_4.launch
 To navigate run navs.py
 ```
 rosrun multi_robot navs.py
-
+```
 ## You are good to go ##
