@@ -26,7 +26,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/base_link.STL" />
+          filename="package://multi_robot/meshes/base_link.STL" />
       </geometry>
       <material
         name="">
@@ -40,7 +40,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/base_link.STL" />
+          filename="package://multi_robot/meshes/base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -66,7 +66,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/frontleftlink.STL" />
+          filename="package://multi_robot/meshes/frontleftlink.STL" />
       </geometry>
       <material
         name="">
@@ -80,7 +80,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/frontleftlink.STL" />
+          filename="package://multi_robot/meshes/frontleftlink.STL" />
       </geometry>
     </collision>
   </link>
@@ -122,7 +122,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/backleftlink.STL" />
+          filename="package://multi_robot/meshes/backleftlink.STL" />
       </geometry>
       <material
         name="">
@@ -136,7 +136,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/backleftlink.STL" />
+          filename="package://multi_robot/meshes/backleftlink.STL" />
       </geometry>
     </collision>
   </link>
@@ -178,7 +178,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/backrightlink.STL" />
+          filename="package://multi_robot/meshes/backrightlink.STL" />
       </geometry>
       <material
         name="">
@@ -192,7 +192,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/backrightlink.STL" />
+          filename="package://multi_robot/meshes/backrightlink.STL" />
       </geometry>
     </collision>
   </link>
@@ -234,7 +234,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/frontrightlink.STL" />
+          filename="package://multi_robot/meshes/frontrightlink.STL" />
       </geometry>
       <material
         name="">
@@ -248,7 +248,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/frontrightlink.STL" />
+          filename="package://multi_robot/meshes/frontrightlink.STL" />
       </geometry>
     </collision>
   </link>
@@ -290,7 +290,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/moplink.STL" />
+          filename="package://multi_robot/meshes/moplink.STL" />
       </geometry>
       <material
         name="">
@@ -304,7 +304,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://finalassemblya/meshes/moplink.STL" />
+          filename="package://multi_robot/meshes/moplink.STL" />
       </geometry>
     </collision>
   </link>
